@@ -1,0 +1,25 @@
+<html>
+<body bgcolor="#054" text="white">
+
+<center>
+    <table border="1">
+        <tr>
+            <td colspan="2" align="centre"></td>
+            <h3>login form</h3>
+        </tr>
+        <tr>
+            <td colspan="1">
+            <td >name</td>
+            </td>
+        </tr>
+    </table>
+
+
+
+</center>
+
+
+
+
+</body>
+</html>
